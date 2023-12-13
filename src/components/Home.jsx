@@ -34,9 +34,6 @@ export const Home = () => {
   )
 }
 
-//Styling in JS instead of CSS with styled-components
-//npm add styled-components or
-//npm install @mui/material @emotion/react @emotion/styled
 const Container = styled.div`
       height: 100vh;
       overflow-y: scroll;
